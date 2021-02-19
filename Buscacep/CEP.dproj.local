@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/19 10:32:38.000.340,=C:\Users\PC08PROGRAMACAO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/19 10:45:39.000.037,C:\Users\PC08PROGRAMACAO\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Nova pasta (4)\testeCEP.dfm</Transaction>
+    <Transaction>2021/02/19 10:45:39.000.037,C:\Users\PC08PROGRAMACAO\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Nova pasta (4)\testeCEP.pas</Transaction>
+    <Transaction>2021/02/19 10:45:51.000.063,C:\Users\PC08PROGRAMACAO\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Nova pasta (4)\CEP.dproj</Transaction>
+    <Transaction>2021/02/19 14:31:49.969,C:\Nova pasta (4)\SistemaCEP.pas=C:\Nova pasta (4)\testeCEP.pas</Transaction>
+    <Transaction>2021/02/19 14:31:49.969,C:\Nova pasta (4)\SistemaCEP.dfm=C:\Nova pasta (4)\testeCEP.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
